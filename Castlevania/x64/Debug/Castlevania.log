@@ -1,0 +1,125 @@
+﻿  Animation.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(40,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Bat.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Black_Knight.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Black_Knight.cpp(73,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Black_Knight.cpp(75,14): warning C4305: '=': truncation from 'double' to 'float'
+  Candle.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ChangeScene.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+  Game.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(40,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Game.cpp(83,47): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Game.cpp(117,35): error C2065: 'GWL_HINSTANCE': undeclared identifier
+  GameObject.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\GameObject.cpp(86,27): warning C4305: '=': truncation from '__int64' to 'float'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\GameObject.cpp(87,25): warning C4305: '=': truncation from '__int64' to 'float'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\GameObject.cpp(97,27): warning C4305: '=': truncation from '__int64' to 'float'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\GameObject.cpp(98,25): warning C4305: '=': truncation from '__int64' to 'float'
+  Grid.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Ground.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  HUD.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\HUD.cpp(112,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\HUD.cpp(113,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\HUD.cpp(118,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\HUD.cpp(122,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Input.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(40,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Item.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Platform.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Platform.cpp(59,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Platform.cpp(61,14): warning C4305: '=': truncation from 'double' to 'float'
+  SceneManager.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(40,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\SceneManager.cpp(292,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\SceneManager.cpp(323,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\SceneManager.cpp(323,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Simon.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Simon.cpp(460,15): warning C4553: '==': result of expression not used; did you intend '='?
+  Sprite.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(40,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+  Stair.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  SubWeapon.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Texture.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+  Generating Code...
+  Compiling...
+  TileMap.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\TileMap.cpp(100,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\TileMap.cpp(101,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Utils.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+  Whip.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(242,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(209): message : see previous definition of 'BLACK_KNIGHT'
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Animation.h(39,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...

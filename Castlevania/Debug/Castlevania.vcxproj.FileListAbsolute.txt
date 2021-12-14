@@ -1,0 +1,4 @@
+C:\Users\tuong\Desktop\Castlevania\Castlevania\Debug\Castlevania.exe
+C:\Users\tuong\Desktop\Castlevania\Castlevania\Debug\Castlevania.pdb
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Debug\Castlevania.exe
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Debug\Castlevania.pdb

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(257,1): warning C4005: 'BLACK_KNIGHT': macro redefinition
+C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Utils.h(215): message : see previous definition of 'BLACK_KNIGHT'
+  Castlevania.vcxproj -> C:\Users\tuong\Documents\CaslteVania V2\CaslteVania\Castlevania\Debug\Castlevania.exe
